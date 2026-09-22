@@ -1,0 +1,271 @@
+{
+  "users": [
+    {
+      "_id": "730741b473ee8340976f6474",
+      "name": "Pratap",
+      "email": "pratapyadav522@gmail.com",
+      "username": "pratap",
+      "passwordHash": "$2a$10$2JEvqpyaxFYt2cCIPedKuO4u35hKQn77wCTF.bMD.1wdg2zbZUd5e",
+      "generationsToday": 1,
+      "lastGenerationDate": "2026-09-22",
+      "createdAt": "2026-09-22T08:10:18.309Z",
+      "updatedAt": "2026-09-22T08:10:18.309Z"
+    }
+  ],
+  "sites": [
+    {
+      "_id": "ee92496f62d56b48968abf85",
+      "userId": "730741b473ee8340976f6474",
+      "title": "New Portfolio",
+      "draft": {
+        "schemaVersion": 1,
+        "theme": {
+          "mode": "light",
+          "primaryColor": "#D6536D",
+          "fontFamily": "Space Grotesk",
+          "radius": "md"
+        },
+        "blocks": [
+          {
+            "id": "ba13015e-3ff6-42c5-a604-58620a104b53",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "ca8e393f-e6ba-46f4-892e-866b7c8d458c",
+            "type": "hero",
+            "props": {
+              "heading": "Hello, I am a Developer",
+              "subheading": "Crafting thoughtful digital experiences and scalable web systems.",
+              "ctaText": "Get In Touch",
+              "ctaLink": "https://example.com",
+              "alignment": "center"
+            }
+          },
+          {
+            "id": "6cfeff98-844d-4d1d-97da-9d95bcb24eed",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate software engineer with a focus on modern web applications, clean architecture, and delightful user experiences."
+            }
+          },
+          {
+            "id": "21e5de0f-37e1-460a-8ee5-33ecc73d6671",
+            "type": "projects",
+            "props": {
+              "title": "Featured Projects",
+              "items": [
+                {
+                  "name": "Smart Task Flow",
+                  "description": "A responsive task management dashboard with real-time collaboration.",
+                  "techStack": [
+                    "React",
+                    "Node.js",
+                    "Tailwind CSS"
+                  ],
+                  "liveUrl": "https://example.com",
+                  "repoUrl": "https://github.com/example/smart-task-flow"
+                }
+              ]
+            }
+          },
+          {
+            "id": "cd748fa5-03fc-4d0f-9caf-ef21beb9eb03",
+            "type": "contact",
+            "props": {
+              "title": "Get In Touch",
+              "email": "hello@example.com",
+              "links": [
+                {
+                  "label": "GitHub",
+                  "url": "https://github.com"
+                },
+                {
+                  "label": "LinkedIn",
+                  "url": "https://linkedin.com"
+                }
+              ]
+            }
+          },
+          {
+            "id": "db9f69bd-4ad2-44c8-a56e-d8a64e858f38",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "9af002c1-c4d8-421c-8ec8-529ce052a44b",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "55510293-c607-43fc-bbcb-e23688885066",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "bdc3b8bf-ff1f-47e1-be8e-7193bd08b725",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "46e0b5b1-72b3-4415-9404-5739aae3dd0a",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          }
+        ]
+      },
+      "published": {
+        "schemaVersion": 1,
+        "theme": {
+          "mode": "light",
+          "primaryColor": "#D6536D",
+          "fontFamily": "Space Grotesk",
+          "radius": "md"
+        },
+        "blocks": [
+          {
+            "id": "ba13015e-3ff6-42c5-a604-58620a104b53",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "ca8e393f-e6ba-46f4-892e-866b7c8d458c",
+            "type": "hero",
+            "props": {
+              "heading": "Hello, I am a Developer",
+              "subheading": "Crafting thoughtful digital experiences and scalable web systems.",
+              "ctaText": "Get In Touch",
+              "ctaLink": "https://example.com",
+              "alignment": "center"
+            }
+          },
+          {
+            "id": "6cfeff98-844d-4d1d-97da-9d95bcb24eed",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate software engineer with a focus on modern web applications, clean architecture, and delightful user experiences."
+            }
+          },
+          {
+            "id": "21e5de0f-37e1-460a-8ee5-33ecc73d6671",
+            "type": "projects",
+            "props": {
+              "title": "Featured Projects",
+              "items": [
+                {
+                  "name": "Smart Task Flow",
+                  "description": "A responsive task management dashboard with real-time collaboration.",
+                  "techStack": [
+                    "React",
+                    "Node.js",
+                    "Tailwind CSS"
+                  ],
+                  "liveUrl": "https://example.com",
+                  "repoUrl": "https://github.com/example/smart-task-flow"
+                }
+              ]
+            }
+          },
+          {
+            "id": "cd748fa5-03fc-4d0f-9caf-ef21beb9eb03",
+            "type": "contact",
+            "props": {
+              "title": "Get In Touch",
+              "email": "hello@example.com",
+              "links": [
+                {
+                  "label": "GitHub",
+                  "url": "https://github.com"
+                },
+                {
+                  "label": "LinkedIn",
+                  "url": "https://linkedin.com"
+                }
+              ]
+            }
+          },
+          {
+            "id": "db9f69bd-4ad2-44c8-a56e-d8a64e858f38",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "9af002c1-c4d8-421c-8ec8-529ce052a44b",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "55510293-c607-43fc-bbcb-e23688885066",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "bdc3b8bf-ff1f-47e1-be8e-7193bd08b725",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          },
+          {
+            "id": "46e0b5b1-72b3-4415-9404-5739aae3dd0a",
+            "type": "about",
+            "props": {
+              "title": "About Me",
+              "body": "I am a passionate engineer who cares deeply about user experience, maintainable code, and solving real-world challenges.",
+              "imageUrl": ""
+            }
+          }
+        ]
+      },
+      "isPublished": true,
+      "publishedAt": "2026-09-22T08:11:29.203Z",
+      "schemaVersion": 1,
+      "createdAt": "2026-09-22T08:10:36.246Z",
+      "updatedAt": "2026-09-22T08:11:29.205Z"
+    }
+  ]
+}
