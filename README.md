@@ -1,11 +1,11 @@
-# ⚡ Thirty Seconds
+# Thirty Seconds
 
 > **AI Portfolio Website Builder for Students and Developers**  
 > Generate a complete, beautifully structured developer portfolio in ~30 seconds using Google Gemini AI, polish it visually in a drag-and-drop editor, and publish it instantly to `/p/:username`.
 
 ---
 
-## 🎨 Color Theme & Design System
+## Color Theme & Design System
 Thirty Seconds features a clean, warm editorial design palette:
 - **Warm Vermilion**: `#E43D12` (Primary brand accent & action color)
 - **Raspberry Rose**: `#D6536D` (Secondary accent)
@@ -15,7 +15,7 @@ Thirty Seconds features a clean, warm editorial design palette:
 
 ---
 
-## 🏗️ Core Architecture
+## Core Architecture
 **The AI NEVER writes HTML, CSS, or JS.**  
 The AI strictly produces a validated JSON "block tree" adhering to a strict Zod schema:
 1. **AI Generator**: Produces or updates the JSON block tree.
@@ -24,7 +24,7 @@ The AI strictly produces a validated JSON "block tree" adhering to a strict Zod 
 
 ---
 
-## 🚀 Quick Start Guide (Beginner Friendly)
+## Quick Start Guide (Beginner Friendly)
 
 ### 1. Install Dependencies
 ```bash
@@ -73,7 +73,7 @@ npm test
 
 ---
 
-## 📦 Features Implemented
+## Features Implemented
 1. **Feature 1: Describe It (Prompt Mode)**:
    - Natural language input ("warm minimal developer portfolio for a frontend engineer").
    - Gemini Flash generation in strict JSON response mode with automatic 2x retry loop on validation failure.
