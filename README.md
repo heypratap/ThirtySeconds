@@ -1,5 +1,4 @@
 # Thirty Seconds
-
 > **AI Portfolio Website Builder for Students and Developers**  
 > Generate a complete, beautifully structured developer portfolio in ~30 seconds using Google Gemini AI, polish it visually in a drag-and-drop editor, and publish it instantly to `/p/:username`.
 
